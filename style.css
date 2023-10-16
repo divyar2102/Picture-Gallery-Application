@@ -1,0 +1,13 @@
+body {
+    overflow-x: hidden;
+    padding: 8px;
+    margin: 15px;
+    background-color: rgb(196, 243, 247);
+}
+img{
+    width: 450px;
+    height: 450px;
+}
+img:hover {
+    transform: scale(1.01);
+}
